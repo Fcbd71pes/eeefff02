@@ -1,0 +1,23 @@
+# eFootball Tournament Bot - Dependencies
+# Termux Compatible Requirements (Updated)
+
+# Telegram Bot Framework
+python-telegram-bot==21.4
+
+# HTTP & Network
+requests==2.32.3
+
+# Async & Concurrency
+asyncio-contextmanager==1.0.0
+
+# Environment Configuration
+python-dotenv==1.0.0
+
+# Type Hints (Optional but Recommended)
+typing-extensions>=4.0.0
+
+# Database (SQLite built-in, no package needed)
+# sqlite3 is part of Python standard library
+
+# Note: All dependencies are Termux compatible
+# Install with: pip install -r requirements.txt
